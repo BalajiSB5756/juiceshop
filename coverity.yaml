@@ -1,0 +1,4 @@
+commit:
+  connect:
+    stream: juice-shopbb
+    url: https://testing.coverity.synopsys.com
